@@ -1,7 +1,7 @@
 name: smart_scroll_view
 description: the most advanced scroll view
 version: 0.0.1
-homepage:
+homepage: https://github.com/FlutterWay/smart_scroll_view.git
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
